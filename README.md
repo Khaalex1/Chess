@@ -4,4 +4,4 @@ Chess game made in Python with my friend J. FOYANG NZEDOM during our first year 
 
 A GUI aswell as a Negamax AI were implemented.
 
-Further details are provided in the pdf report (even though it is in French ...).
+Further details are provided in the pdf report (in French though ...).
